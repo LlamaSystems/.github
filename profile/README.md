@@ -1,4 +1,4 @@
-![Llama Banner](/assets/llama-banner.jpg)
+![Llama Banner](/assets/llama-banner-2.png)
 
 Llama Systems is an open-source organization focused on delivering practical, high-quality libraries, tools, and
 infrastructure components for modern software development.
